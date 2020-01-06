@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "Non-Prod"
+		},
+		{
+			"path": "Prod-CDE"
+		},
+		{
+			"path": "Prod-Non-CDE"
+		},
+		{
+			"path": "SharedServices"
+		}
+	]
+}
