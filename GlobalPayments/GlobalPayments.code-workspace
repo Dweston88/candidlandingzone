@@ -7,10 +7,10 @@
 			"path": "Prod-CDE"
 		},
 		{
-			"path": "Prod-Non-CDE"
+			"path": "SharedServices"
 		},
 		{
-			"path": "SharedServices"
+			"path": "Non-Prod-CDE"
 		}
 	]
 }
