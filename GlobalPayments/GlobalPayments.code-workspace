@@ -1,16 +1,13 @@
 {
 	"folders": [
 		{
-			"path": "Non-Prod"
+			"path": "Modules"
 		},
 		{
-			"path": "Prod-CDE"
+			"path": "LandingZone"
 		},
 		{
-			"path": "SharedServices"
-		},
-		{
-			"path": "Non-Prod-CDE"
+			"path": "Patterns"
 		}
 	]
 }
