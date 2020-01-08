@@ -1,0 +1,14 @@
+[
+  {
+    "cloudName": "AzureCloud",
+    "id": "9851b6f7-6ddf-4539-b888-da4bd8d469c7",
+    "isDefault": true,
+    "name": "Azure subscription 1",
+    "state": "Enabled",
+    "tenantId": "2844a5d3-1daa-4cdb-af77-0811dcdd6b3d",
+    "user": {
+      "name": "lee.blackburn@candidpartners.com",
+      "type": "user"
+    }
+  }
+]
